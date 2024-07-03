@@ -24,14 +24,12 @@ Mis principales intereses son:
   [![My Skills](https://skillicons.dev/icons?i=linux,windows,ubuntu,arch,debian,mint,)](https://skillicons.dev)
 
 ## Certificados obtenidos a lo largo de mi formación:
+<img  align="center"  src="./img/Cert4.png" />
 
-   <!-- - [@Aldair-NPM](https://www.github.com/Aldair-NPM)
-   - [@EmilioMendozaCortes](https://www.github.com/EmilioMendozaCortes)
-   - [@adalid2608](https://www.github.com/adalid2608) -->
 <table align="center">
   <tr border="none">
   <td width="50%" align="center">  
-    <img  align="center"  src="./img/Cert4.png" />
+    <img  align="center"  src="https://github.com/Adalid26Islas/Curso-de-VIM-basico/blob/main/certificad-curso-vim.png" />
     <br></br>
     <img  alt="Mark streak" src="./img/Cert1.png" /> 
   </td>
@@ -40,10 +38,6 @@ Mis principales intereses son:
     <br></br>
     <img  alt="Mark streak" src="./img/Cert3.png" /> 
   </td>
-  
-  <td width="50%" align="center">
-      <img  align="center"  src="./img/Cert2.png"/>
-    </td>
   </tr>
 </table>
 
