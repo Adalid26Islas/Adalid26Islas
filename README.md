@@ -11,8 +11,10 @@ Mis principales intereses son:
 - Control y gestión de versiones para proyectos con Git, GitHub y GitLab.
 
 ##Tecnologias Utilizadas a lo largo de mi fromación:
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,git)](https://skillicons.dev)
+  
+  - [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,git)](https://skillicons.dev)
 
 ##Herramientas Utilizadas a lo largo de mi fromación:
-  [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+  
+  - [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 
