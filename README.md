@@ -10,11 +10,14 @@ Mis principales intereses son:
 - Desarrollo Web FrontEnd con Fframeworks/librerías como Angular, VueJS o React.
 - Control y gestión de versiones para proyectos con Git, GitHub y GitLab.
 
-## Tecnologias Utilizadas a lo largo de mi fromación:
+## Tecnologias utilizadas a lo largo de mi formación:
   
-   [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,git)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,angular,ts,java,git,py,bootstrap,django,mysql,nodejs,npm,pug)](https://skillicons.dev)
 
-## Herramientas Utilizadas a lo largo de mi fromación:
+## Herramientas utilizadas a lo largo de mi formación:
   
-   [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=androidstudio,atom,github,gitlab,postman,sublime,vscode)](https://skillicons.dev)
 
+## Sistemas Operativos utilizados a lo largo de mi formación:
+  
+  [![My Skills](https://skillicons.dev/icons?i=linux,windows,ubunt,arch,debian,mint,)](https://skillicons.dev)
