@@ -12,9 +12,9 @@ Mis principales intereses son:
 
 ##Tecnologias Utilizadas a lo largo de mi fromación:
   
-  - [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,git)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,git)](https://skillicons.dev)
 
 ##Herramientas Utilizadas a lo largo de mi fromación:
   
-  - [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 
