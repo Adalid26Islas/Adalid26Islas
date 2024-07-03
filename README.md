@@ -1,4 +1,5 @@
-- 👋 Hola, mi nombre es Adalid Islas Quintero
+#👋 Hola... 
+Mi nombre es Adalid Islas Quintero
 Actualmente me encuentro estudiando la Ingeniería en Desarrollo y Gestión de Software en la
 Universidad Tecnológica de Xicotepec De Juárez
 - En este perfil podrás encontrar proyectos que me han ayudado durante mi formación académica, algunos de ellos son practicas realizadas en clase y algunos otros son proyectos realizados de manera autodidacta para buscar aprender o mejorar en diferentes aspectos que tengan que ver con el área en la que me encuentro desarrollándome.
