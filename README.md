@@ -28,21 +28,8 @@ Mis principales intereses son:
    <!-- - [@Aldair-NPM](https://www.github.com/Aldair-NPM)
    - [@EmilioMendozaCortes](https://www.github.com/EmilioMendozaCortes)
    - [@adalid2608](https://www.github.com/adalid2608) -->
-
-   <style>
-        .cert {
-            display: flex;
-            width: 90%;
-            height: auto;
-        }
-    </style>
-  
-  <div class="cert">
-        <img src="./img/Cert1.png" alt="">
-        <img src="./img/Cert2.png" alt="">
-        <img src="./img/Cert3.png" alt="">
-        <img src="./img/Cert4.png" alt="">
-    </div>     
+   
+![Imagen](./img/Cert1.png)
 
 Con el tiempo espero hacer de este espacio un lugar en el que se puedan demostrar
 todas y cada una de las habilidades que poseo.
