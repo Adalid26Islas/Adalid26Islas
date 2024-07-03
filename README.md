@@ -23,6 +23,27 @@ Mis principales intereses son:
   
   [![My Skills](https://skillicons.dev/icons?i=linux,windows,ubuntu,arch,debian,mint,)](https://skillicons.dev)
 
+## Certificados obtenidos a lo largo de mi formación:
+
+   <!-- - [@Aldair-NPM](https://www.github.com/Aldair-NPM)
+   - [@EmilioMendozaCortes](https://www.github.com/EmilioMendozaCortes)
+   - [@adalid2608](https://www.github.com/adalid2608) -->
+
+   <style>
+        .cert {
+            display: flex;
+            width: 90%;
+            height: auto;
+        }
+    </style>
+  
+  <div class="cert">
+        <img src="./img/Cert1.png" alt="">
+        <img src="./img/Cert2.png" alt="">
+        <img src="./img/Cert3.png" alt="">
+        <img src="./img/Cert4.png" alt="">
+    </div>     
+
 Con el tiempo espero hacer de este espacio un lugar en el que se puedan demostrar
 todas y cada una de las habilidades que poseo.
 Me gusta aprender siempre cosas nuevas o reforzar conceptos que ya sé y así poder hacer proyectos de calidad.
