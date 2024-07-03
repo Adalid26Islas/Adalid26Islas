@@ -22,3 +22,7 @@ Mis principales intereses son:
 ## Sistemas Operativos utilizados a lo largo de mi formación:
   
   [![My Skills](https://skillicons.dev/icons?i=linux,windows,ubuntu,arch,debian,mint,)](https://skillicons.dev)
+
+Con el tiempo espero hacer de este espacio un lugar en el que se puedan demostrar
+todas y cada una de las habilidades que poseo.
+Me gusta aprender siempre cosas nuevas o reforzar conceptos que ya se y asi porder hacer proyectos de calidad.
